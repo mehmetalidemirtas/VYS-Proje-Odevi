@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkIbIgCLjng4pmMKbYNHnQzh/G4sn95EFSq4Q34jIkISbk+356UyHTL/wboMesOXWnClhMHx013f98b9KVY9Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehmetali Demirtaş\\source\\repos\\YurtDatabase\\YurtDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmetali Demirtaş\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\Mehmetali Demirtaş\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmetali Demirtaş\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Mehmetali Demirtaş\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
